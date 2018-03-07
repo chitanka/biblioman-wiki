@@ -13,10 +13,10 @@ Title: Библиотечни каталози
   - [Университет „Проф.д-р Асен Златаров“](http://libwin.btu.bg/absw/abs.htm)
   - [Народно читалище „Изгрев“](http://83.228.48.213/absw/abs.htm)
 - **Варна**
-  - [Народна библиотека „Пенчо Славейков“]http://catalog.libvar.bg)
-  - [Варненски свободен университет](http://lib-serv.vfu.bg/absw/abs.htm
+  - [Народна библиотека „Пенчо Славейков“](http://catalog.libvar.bg)
+  - [Варненски свободен университет](http://lib-serv.vfu.bg/absw/abs.htm)
   - [Икономически университет](http://library1.ue-varna.bg:7480/absw/abs.htm)
-  - [Медицински университет](http://catalogue.mu-varna.bg/absw/abs.htm
+  - [Медицински университет](http://catalogue.mu-varna.bg/absw/abs.htm)
   - [Математическа гимназия „Д-р П. Берон“](http://ns.mgberon.com:7080/absw/abs.htm)
 - **Велико Търново**
   - [Народна библиотека „Петко Р. Славейков“](http://opac.libraryvt.com)
