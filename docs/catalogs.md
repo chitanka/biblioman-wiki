@@ -6,9 +6,112 @@ Title: Библиотечни каталози
 - **Благоевград**
   - [Югозападен университет „Неофит Рилски“](http://194.141.86.10:8080/absw/abs.htm)
   - [Регионална библиотека „Димитър Талев“](http://83.228.22.6/absw/abs.htm)
-  - [Библиотека при НЧ „Н - [Й - [Вапцаров - 1860“](http://78.90.255.123:22280/absw/abs.htm)
-
+  - [Библиотека при НЧ „Н. Й. Вапцаров - 1860“](http://78.90.255.123:22280/absw/abs.htm)
 - **Бургас**
+  - [Регионална библиотека „П. К. Яворов“](http://www.burglib.org:81/)
   - [Бургаски свободен университет](http://library.bfu.bg/absw/abs.htm)
   - [Университет „Проф.д-р Асен Златаров“](http://libwin.btu.bg/absw/abs.htm)
-  - [Народно Читалище (НЧ) „Изгрев“](http://83.228.48.213/absw/abs.htm)
+  - [Народно читалище „Изгрев“](http://83.228.48.213/absw/abs.htm)
+- **Варна**
+  - [Народна библиотека „Пенчо Славейков“]http://catalog.libvar.bg)
+  - [Варненски свободен университет](http://lib-serv.vfu.bg/absw/abs.htm
+  - [Икономически университет](http://library1.ue-varna.bg:7480/absw/abs.htm)
+  - [Медицински университет](http://catalogue.mu-varna.bg/absw/abs.htm
+  - [Математическа гимназия „Д-р П. Берон“](http://ns.mgberon.com:7080/absw/abs.htm)
+- **Велико Търново**
+  - [Народна библиотека „Петко Р. Славейков“](http://opac.libraryvt.com)
+  - [Централна библиотека на ВТУ „Св.св. Кирил и Методий“](http://libserver.uni-vt.bg/absw/abs.htm)
+  - [Библиотека при Исторически факултет на ВТУ](http://libserver.uni-vt.bg/abvtu01/abs.htm)
+  - [Библиотека при Славистичен център на ВТУ](http://libserver.uni-vt.bg/abvtu02/abs.htm)
+  - [Библиотека при Православен богословски факултет на ВТУ](http://libserver.uni-vt.bg/abvtu03/abs.htm)
+  - [Библиотека при Юридически и философски факултет](http://libserver.uni-vt.bg/abvtu04/abs.htm)
+  - [Библиотека при Педагогически факултет на ВТУ](http://libserver.uni-vt.bg/abvtu05/abs.htm)
+  - [Библиотека при Факултет математика и информатика на ВТУ](http://libserver.uni-vt.bg/abvtu06/abs.htm)
+  - [Австрийска библиотека при ВТУ](http://libserver.uni-vt.bg/abvtu07/abs.htm)
+  - [Немска библиотека при ВТУ](http://libserver.uni-vt.bg/abvtu08/abs.htm)
+  - [Библиотека при Образователен и културен център „Балкани“ при ВТУ](http://libserver.uni-vt.bg/abvtu09/abs.htm)
+  - [Библиотека при Изобразителен факултет при ВТУ](http://libserver.uni-vt.bg/abvtu10/abs.htm)
+  - [Библиотека при Стопански факултет при ВТУ](http://libserver.uni-vt.bg/abvtu11/abs.htm)
+  - [Библиотека при Филологически факултет на ВТУ](http://libserver.uni-vt.bg/absw/abs.htm)
+- **Видин**
+  - [Регионална библиотека „Михалаки Георгиев“](http://178.239.224.218/absw/abs.htm)
+- **Враца**
+  - [Регионална библиотека „Христо Ботев“](http://catalog-library.rimex-ltd.com/absw/abs.htm)
+- **Габрово**
+  - [Регионална библиотека „Априлов-Палаузов”](http://ilib.libgabrovo.com:8181)
+- **Девин**
+  - [Народно читалище „Родопска просвета - 1923“](http://87.126.80.107/absw/abs.htm)
+- **Димитровград**
+  - [Библиотека „Пеньо Пенев“](http://93.183.163.108/absw/abs.htm)
+- **Добрич**
+  - [Регионална библиотека „Дора Габе“](http://www.libdobrich.bg/listinfo.php?id=11)
+  - [Висше училище международен колеж](http://library.vumk.eu/absw/abs.htm)
+- **Кърджали**
+  - [Регионална библиотека „Никола Вапцаров“](http://rbk.primasoft.bg)
+- **Кюстендил**
+  - [Регионална библиотека „Емануил Попдимитров“](http://libkustendil.ilib.primasoft.bg/bg/bool-simp.php?new=1)
+- **Ловеч**
+  - [Регионална библиотека „Проф. Беню Цонев“](http://87.126.201.199/absw/abs.htm)
+- **Монтана**
+  - [Регионална библиотека „Гео Милев“](http://montanalib.mont.cablebg.net/absw/abs.htm)
+- **Пазарджик**
+  - [Регионална библиотека „Никола Фурнаджиев“](http://46.40.125.121/absw/abs.htm)
+- **Перник**
+  - [Регионална библиотека „Светослав Минков“](http://www.libblagoevgrad.org/ssv6.html)
+- **Пещера**
+  - [Народно читалище „Развитие 1873“](http://46.40.125.250/absw/abs.htm)
+- **Плевен**
+  - [Регионална библиотека „Христо Смирненски“](http://www.lib-pleven.com/catalog.php)
+- **Пловдив**
+  - [Народна библиотека „Иван Вазов“](http://ilib.libplovdiv.com)
+  - [Аграрен университет](http://lib.au-plovdiv.bg)
+  - [Медицински университет](http://medlib-plovdiv.org/absw/abs.htm)
+  - [Пловдивски университет](http://catalog.lib.uni-plovdiv.bg/absw/abs.htm)
+  - [Технически университет](http://lib.tu-plovdiv.bg/absw/abs.htm)
+  - [Висше училище по сигурност и икономика](http://213.145.118.11/absw/abs.htm)
+  - [Университет по хранителни технологии](http://library.uft-plovdiv.bg/absw/abs.htm)
+- **Разград**
+  - [Регионална библиотека „проф. Боян Пенев“](http://212.104.127.96)
+- **Русе**
+  - [Регионална библиотека „Любен Каравелов“](http://87.120.225.66:2222/absw/abs.htm)
+  - [Русенски Университет „Ангел Кънчев“](http://library.uni-ruse.bg/ab)
+  - [Австрийска библиотека „Елиас Канети“](http://www.oebibli.uni-ruse.bg/ab)
+- **Самоков**
+  - [Общинска библиотека „Паисий Хилендарски“](http://109.160.76.34/absw/abs.htm)
+- **Свищов**
+  - [Стопанска академия „Д. А. Ценов“](http://wlib.uni-svishtov.bg)
+- **Силистра**
+  - [Регионална библиотека „П. Павлович“](http://212.45.73.3/absw/abs.htm)
+- **Сливен**
+  - [Регионална библиотека „Сава Доброплодни“](http://libsliven.primasoft.bg/bg/bool-simp.php?new=1)
+- **Смолян**
+ - [Регионална библиотека „Николай Вранчев“](http://213.91.240.79/absw/abs.htm)
+- **София**
+  - [Столична библиотека](http://ilib.libsofia.bg/bg/bool-simp.php?new=1)
+  - [Медицински университет](http://nt-cmb.medun.acad.bg/absw/abs.htm)
+  - [Минно-геоложки университет „Св.Иван Рилски“](http://library.mgu.bg/absw/abs.htm)
+  - [Национална спортна академия „В. Левски“](http://92.247.13.212/absw/abs.htm)
+  - [Национална художествена академия](http://213.222.51.195/absw/abs.htm)
+  - [Народно читалище „Светлина 1940“](http://46.55.253.41/absw/abs.htm)
+  - [Народно читалище „Цар Борис III“](http://lib.carboris3.association.bg/absw/abs.htm)
+  - [Университет по архитектура строителство и геодезия](http://lib.uacg.bg/absw/abs.htm)
+  - [Национална музикална академия „Панчо Владигеров“](http://library.nma.bg/absw/abLogIn.htm)
+  - [Народно събрание на Република България - Парламентарна библиотека](http://library.parliament.bg/absw/abs.htm)
+  - [Библиотечна база - ВТУ „Тодор Каблешков“](http://e-library.vtu.bg/absw/abs.htm)
+  - [LibLab при УниБИТ](http://liblab.unibit.bg/absw/abs.htm)
+  - [НАТФИЗ - Академична библиотека и архив](http://95.87.212.235/absw/abs.htm)
+  - [Библиотечно-информационен център при УниБИТ](http://catalog.unibit.bg/absw/abs.htm)
+- **Стара Загора**
+  - [Регионална библиотека „Захарий Княжески“](http://catalog.libsz.org/absw/abs.htm))
+  - [Народно читалище „Родина“](http://catalog.rodina-bg.org/absw/abs.htm)
+  - [Фондация „Миню Балкански“](http://catalog.rodina-bg.org/absf/abs.htm)
+- **Търговище**
+  - [Регионална библиотека „Петър Стъпов“](http://ilib.libtg.info)
+- **Хасково**
+  - [Регионална библиотека „Христо Смирненски“](http://rb-haskovo.no-ip.org/absw/abs.htm)
+- **Хисаря**
+  - [Народно читалище „Иван Вазов 1904“](http://87.126.247.42/absw/abs.htm)
+- **Шумен**
+  - [Регионална библиотека „Стилиян Чилингиров“](http://lib-shumen.iservice.bg/absw/abs.htm)
+  - [Шуменски университет „Епископ Константин Преславски“](http://www.shu-lib.shu-bg.net/absw/abs.htm)
+  - [Шуменски университет - педагогическа и чуждо-езикова библиотека](http://194.141.47.68/absw/abs.htm)
