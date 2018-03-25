@@ -1,5 +1,10 @@
 Title: Библиотечни каталози
 
+# Сводни каталози:
+- [Cobiss - кооперирана онлайн библиографска система и услуги](http://www.bg.cobiss.net/scripts/cobiss?ukaz=getid)
+- [Набис - национален каталог на библиотеките в България ](http://unicat.nalis.bg/?dscnt=1&fromLogin=true&reset=true&dstmp=1360223709384&set_language=bg&vid=NALIS_VIEW&fromLogin=true)
+- [Регина - обединен каталог на регионалните библиотеки](http://ruc.ilib.primasoft.bg/)
+- [Каталог „Университетски библиотеки“](http://www.pc-tm.com/abkub/abs.htm)
 # Библиотеките по градове:
 - **Асеновград**
   - [Градска библиотека „Паисий Хилендарски“](http://lib-assenovgrad.com/absw/abs.htm)
