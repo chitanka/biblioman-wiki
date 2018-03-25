@@ -11,6 +11,6 @@ Title: Литературни блогове
   - [Ловци на книги](https://bookhunterz.wordpress.com/)
   - [Книжно момиче](http://knizhnomomiche.blogspot.bg/)
   - [Anna Hells' fantasy place](https://annahells.wordpress.com/)
-  - [Словоядец](http://slovoyadets.blogspot.bg/) - Книжен блог на Слави Ганев
-  - [Книжен Петър](https://knijenpetar.wordpress.com/) - Блог за книги на Петър Панчев
-  - [Още един блог за книги](http://oshteedinblogzaknigi.com/category/knigi/) - Блог за книги на  Марио Йорданов
+  - [Словоядец](http://slovoyadets.blogspot.bg/) - книжен блог на Слави Ганев
+  - [Книжен Петър](https://knijenpetar.wordpress.com/) - блог за книги на Петър Панчев
+  - [Още един блог за книги](http://oshteedinblogzaknigi.com/category/knigi/) - блог за книги на  Марио Йорданов
