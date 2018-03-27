@@ -14,3 +14,6 @@ Title: Литературни блогове
   - [Словоядец](http://slovoyadets.blogspot.bg/) - книжен блог на Слави Ганев
   - [Книжен Петър](https://knijenpetar.wordpress.com/) - блог за книги на Петър Панчев
   - [Още един блог за книги](http://oshteedinblogzaknigi.com/category/knigi/) - блог за книги на  Марио Йорданов
+  - [LoveBigBooks](http://lovebigbooks.blogspot.bg/)
+  - [Палатков лагер за пингвини](http://alvinbg.blogspot.bg/)
+  - [Левитация...](http://whisperofahyacinth.blogspot.bg/)
