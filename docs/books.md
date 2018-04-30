@@ -192,7 +192,7 @@ Title: Попълване на информация за книги
 {include:full-content-file}
 ### Дата на достъп
 {include:available-at}
-### Сканирана страница
+### Сканирани страници
 {include:scans}
 
 ---
