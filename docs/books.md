@@ -206,7 +206,7 @@ Title: Попълване на информация за книги
 {include:ocred-text}
 ### Записът е непълен
 {include:is-incomplete}
-### Причина защо е непълен записа
+### Причина защо е непълен записът
 {include:reason-why-incomplete}
 
 ---
